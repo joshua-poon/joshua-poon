@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @joshua-poon
-- 👀 I’m interested in building websites, programming puzzles, and learning (mostly real) languages.
-- 🌱 I’m currently learning Javascript.
-- ⭐ I'm a second year medical student
+- 👀 I’m interested in linguistics and history.
+- ⭐ I'm a final year medical student
 - 🎤 Check out my website [here](https://www.poonos.com)
 
 <!---
